@@ -4,5 +4,6 @@ public class Main {
 
         BusinessUI business = new BusinessUI();
         business.startUI();
+
     }
 }

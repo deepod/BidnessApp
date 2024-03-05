@@ -39,7 +39,7 @@ public class BusinessUI {
                 System.out.println("See you next time!!");
             }
             else{
-                System.out.println("Please enter a valid choice");
+                System.out.println("that is not a valid choice. Please enter a valid choice");
                 System.out.println("Press Enter key to continue...");
                 sc.nextLine();
                 startUI();
